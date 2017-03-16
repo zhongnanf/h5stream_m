@@ -2,11 +2,6 @@
 A Matlab class for writing image data as stream into chunks of hdf5 files
 
 ## Matlab help information:
-
-H5STREAM
-
-Object that writes stream of images into chunks of hdf5 files
-
 ### Create the object
 
 ```
